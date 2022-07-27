@@ -1,0 +1,17 @@
+{
+    "name": "home/test-api2",
+    "autoload": {
+        "psr-4": {
+            "app\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mirander",
+            "email": "mirander.aleks@gmail.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "^2.0"
+    }
+}
